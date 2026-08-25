@@ -1,2 +1,3 @@
-# Flask_Avancado
-Atividade de Flask nivel avançado
+# sample-flask-auth
+
+Repositório criado para armazenar o código da API de autenticação com banco de dados
